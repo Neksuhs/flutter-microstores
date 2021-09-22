@@ -1,4 +1,4 @@
-import '../microstores/microstore.dart';
+import '../microstores/microstores.dart';
 
 final counterStore = Microstore<int>(defaultData: 0);
 final testStore = Microstore<String>(defaultData: 'testString');

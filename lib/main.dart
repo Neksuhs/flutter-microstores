@@ -1,9 +1,7 @@
 import 'package:flutter/material.dart';
 
-import 'microstores/consumer.dart';
-import 'microstores/controller.dart';
+import 'microstores/microstores.dart';
 import 'stores/microstores.dart';
-import 'microstores/microstoresprovider.dart';
 
 void main() {
   runApp(MicrostoresProvider(

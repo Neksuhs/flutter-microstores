@@ -1,6 +1,6 @@
 import 'package:flutter/widgets.dart';
-import 'package:test_app/microstores/controller.dart';
 
+import 'controller.dart';
 import 'microstoresprovider.dart';
 
 typedef BuilderCallback = Widget Function(
